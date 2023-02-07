@@ -18,6 +18,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 >備註：
 >chatGPT 跟open-AI所開放的api text-davinci-003為兩者不同的東西，經過測試之後chatGPT的語意理解能力以及產出的內容很明顯優於text-davinci-003。
+>很期待未來open AI開放出跟chatGPT同等級甚至更好的api。
 
 ## 使用chatGPT代碼生成的提問過程:
 --- 
